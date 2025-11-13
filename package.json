@@ -4,7 +4,7 @@
   "description": "Project files for Dev Ops Lab 1",
   "main": "index.js",
   "scripts": {
-    "test": "jests"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
@@ -13,5 +13,8 @@
     "body-parser": "^2.2.0",
     "express": "^5.1.0",
     "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "jest": "^30.2.0"
   }
 }
